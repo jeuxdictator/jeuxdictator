@@ -15,10 +15,7 @@ center{
 	padding: 0;
 	color: #EAA003;
 	height: 50px;
-	background-color: #673700;
-	background-repeat: no-repeat;
-	background-position: center; 
-	background-image: url("https://jeuxdictator.github.io/logo.png");
+	background-color: black;
 }
 .responsive-headline h1{
 	font-size: 20px;
