@@ -15,13 +15,10 @@ center{
 	padding: 0;
 	color: #EAA003;
 	height: 50px;
-	background-color: black;
+	background-color: #d9c106;
 	background-repeat: no-repeat;
 	background-position: center; 
 	background-image: url("https://jeuxdictator.github.io/logo.png");
-	border-radius: 50%;
-	border-style: solid;
-	border-color: black;
 }
 .responsive-headline h1{
 	font-size: 20px;
@@ -50,24 +47,4 @@ center{
 .menu-link:hover {
 	background-color: #555;
 	color: white;
-}
-.jeuxgate {
-	border-radius: 50%;
-	border-width: 5px;
-	border-style: solid;
-}
-.jeuxgatetxt {
-	color: white;
-	font-size: 40px;
-	line-height: 40px;
-}
-.byzanbottxt {
-	color: #e65c00;
-	font-size: 30px;
-	line-height: 30px;
-}
-.shruggytxt {
-	color: #99ccff;
-	font-size: 30px;
-	line-height: 30px;
 }
