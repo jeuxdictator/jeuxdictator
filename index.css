@@ -13,9 +13,12 @@ center{
 	list-style-type: none;
 	overflow: hidden;
 	padding: 0;
-	color: #019aa5;
+	color: #EAA003;
 	height: 50px;
 	background-color: black;
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-image: url("https://jeuxdictator.github.io/logo.png");
 }
 .responsive-headline h1{
 	font-size: 20px;
